@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+qdrant-client
+pypdf
+langchain
+langchain-text-splitters
